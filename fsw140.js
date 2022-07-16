@@ -16,8 +16,8 @@ export default function Home() {
                 </li> */}
                 </ul>
                 <hr />
-                <img src="https://www.api-basketball.com/public/img/home1/hero-banner.png"
+                {/* <img src="https://www.api-basketball.com/public/img/home1/hero-banner.png"
                     alt="Basketball Player" />
    </>
     )
-}
+} */}
